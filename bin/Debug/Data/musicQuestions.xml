@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestionCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestionCard>
+    <Question>Which key has 3 flats?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>Eb major / C minor</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Bb major / G minor</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Ab major / F minor</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Db major / Bb minor</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Which key has no sharps?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>C major / A minor</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>G major / E minor</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>D major / B minor</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A major / F# minor</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Which key has 4 sharps?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>E major / C# minor</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>G major / E minor</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>D major / B minor</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A major / F# minor</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Define a triad</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>3 pitches stacked together in thirds</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>An interval of 3 semitones</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>An interval of 6 semitones</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A texture consisting of multiple melodies playing the same rhythm</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>How is a major chord built?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>By taking a first 3 notes of the major scale</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>By taking the first, third, and fifth notes of the major scale</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>By taking the final 3 notes of the major scale</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>By taking the first, fourth, and seventh notes of the major scale</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>How is a minor chord built?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>By taking a first 3 notes of the minor scale</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>By taking the first, third, and fifth notes of the minor scale</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>By taking the final 3 notes of the minor scale</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>By taking the first, fourth, and seventh notes of the minor scale</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Define homophonic</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A texture consisting of the same rhythm and the same pitch</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>A texture consisting of the same rhythm and different pitches</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>The arrangement of pitches into a rhythmic pattern</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Silence</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Define melody</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A texture consisting of the same rhythm and the same pitch</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A texture consisting of the same rhythm and different pitches</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A texture consisting of different rhythms</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>The arrangement of pitches into a rhythmic pattern</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Define monophonic</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>A texture consisting of the same rhythm and the same pitch</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A texture consisting of the same rhythm and different pitches</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A texture consisting of different rhythms</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>The arrangement of pitches into a rhythmic pattern</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Name the ornament that would produce the following notes: A B A G A B</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>Turn</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Trill</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Mordent</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Grace note</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+</ArrayOfQuestionCard>

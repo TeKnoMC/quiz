@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestionCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestionCard>
+    <Question>Define decomposition</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>Breaking a problem into smaller sub-problems</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Removing unnecessary details</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A series of instructions</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Using abstraction and decomposition to strategically reach a result</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Define abstraction</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>Removing unnecessary details</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Breaking a problem into smaller sub-problems</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Using abstraction and decomposition to strategically reach a result</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A series of instructions</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Define algorithmic thinking</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Removing unnecessary details</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Breaking a problem into smaller sub-problems</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>Using abstraction and decomposition to strategically reach a result</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A series of instructions</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>What is a compiler?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>A translator that translates the code into machine code before execution</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A translator that translates the code into machine code line by line</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>An environment to write code in</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>An error in the syntax</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>What is an interpreter?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A translator that translates the code into machine code before execution</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>A translator that translates the code into machine code line by line</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>An environment to write code in</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>An error in the syntax</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Which of these best describes a high-level language?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>A language written close to English and is easier understood by a human</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A language such as Assembly or Machine code</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A language spoken in European countries</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A language that's hard to learn</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Which of these best describes a low-level language?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A language written close to English and is easier understood by a human</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>A language such as Assembly or Machine code</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A language spoken in European countries</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A language that's hard to learn</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>What is a flowchart?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>A graphical representation of an algorithm</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A language with no syntax used to plan out algorithms</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A chart to present data</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A language written close to English and is easier understood by a human</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>What is pseudocode?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A graphical representation of an algorithm</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>A language with no syntax used to plan out algorithms</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A chart to present data</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>A language written close to English and is easier understood by a human</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Choose the best data type for the following information: 3.14159</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>Float</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Integer</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Boolean</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>String</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+</ArrayOfQuestionCard>

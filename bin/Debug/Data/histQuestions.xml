@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestionCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestionCard>
+    <Question>What year was the timber and culture act instated?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>1973</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>1972</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>1971</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>1970</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>What was the gold rush?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>The discovery of gold, leading to the movement of people to California</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>The rush to hide gold from the Native Americans</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>The beginning of settlement on the plains</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>The beginning of cattle ranching</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>What were the two railway companies responsible for constructing the transcontinental railway?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Western Pacific and Unity Pacific</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Central Atlantic and Union Pacific</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>Central Pacific and the Union Pacific</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Central Pacific and Union Atlantic</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>What year was the homestead act instated?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>1862</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>1863</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>1861</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>1866</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Who invented cattle ranching?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Jack Ififf</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>John Iliff</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>J F Glidden</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>John McCoy</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>What is one of the reasons for William the Conqueror completing the Harrying of the North?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>Rebellions</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>He was bored</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>They had killed his wife</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>There was no observable reason</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>What was the Normanisation of the Church?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Changing the main religion of the country</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>Reforming the Church to have more Norman influence</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Spreading violence and destruction across the North</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Removing all of the Norman priests</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Which of these is a valid advantage William the Conqueror had during the Battle of Hastings?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>More advanced technology - specifically cavalry</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Geographical advantage - the Normans were on a hill</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Better understanding of the land and country</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>More experience</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Why was the Battle of Stamford Bridge successful?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Because the Anglo-Saxons were already stationed in the North</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>The Danelaw were not as welcoming as they were presumed to be</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>The Vikings had surrendered before Harold Godwinson arrived</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>Because the Anglo-Saxons had the element of surprise</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+  <QuestionCard>
+    <Question>Which of these was a part of the RAMC?</Question>
+    <ListOfPotentialAnswers>
+      <PotentialAnswer>
+        <Correct>true</Correct>
+        <Answer>The Regimental Aid Post</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>The trenches</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>No-man's land</Answer>
+      </PotentialAnswer>
+      <PotentialAnswer>
+        <Correct>false</Correct>
+        <Answer>Female volunteer workers</Answer>
+      </PotentialAnswer>
+    </ListOfPotentialAnswers>
+    <AnswerCorrect>false</AnswerCorrect>
+    <CardUsed>false</CardUsed>
+  </QuestionCard>
+</ArrayOfQuestionCard>
